@@ -1,5 +1,3 @@
-# python-discord-bot
+# Heyo!
 
-**Heyo**
-
-* just a simple music player bot
+* this is just a simple music player bot for discord
